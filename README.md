@@ -1,2 +1,2 @@
 # mySmsApp
-this is to learn from about mySms
+this is to learn rails from about mySmsApp
